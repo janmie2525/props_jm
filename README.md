@@ -6,4 +6,4 @@
 - [ ] write down who rules
 
 ## TODO JM:
-- [ ] prepare hello world script
+- [x] prepare hello world script
